@@ -7,7 +7,7 @@ Este repositorio contiene una solución al reto de Kaggle [Histopathologic Cance
 - Se aplica un **ensamble por votación** para mejorar la precisión final del modelo completo. 
 
 ##  Datos  
-Los datos no están incluidos en este repositorio. Deben descargarse desde Kaggle:  
+Los datos no están incluidos en este repositorio debido al tamaño de los mismos. Deben descargarse desde Kaggle:  
 [Data Histopathologic Cancer Detection](https://www.kaggle.com/competitions/histopathologic-cancer-detection/data)  
 
 Si se ejecuta en Kaggle, el dataset ya está disponible en `/kaggle/input/histopathologic-cancer-detection/`.  
