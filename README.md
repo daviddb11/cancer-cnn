@@ -13,7 +13,12 @@ Los datos no están incluidos en este repositorio debido al tamaño de los mismo
 Si se ejecuta en Kaggle, el dataset ya está disponible en `/kaggle/input/histopathologic-cancer-detection/`.  
 
 ##  Estructura  
-- `train_models.ipynb` → Entrena CNN con distintas configuraciones.  
+- `train_models.ipynb` → Entrena CNN con distintas configuraciones. 
 - `ensemble_voting.ipynb` → Carga los modelos entrenados y realiza un ensamble por votación.  
 
 Ambos notebooks están pensados para ser ejecutados en Kaggle, por lo que las rutas a los datos y modelos son rutas relativas.
+
+## Resultados
+
+- Public score: 0.8547
+- Private score: 0.8261
