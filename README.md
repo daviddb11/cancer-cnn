@@ -15,3 +15,5 @@ Si se ejecuta en Kaggle, el dataset ya está disponible en `/kaggle/input/histop
 ##  Estructura  
 - `train_models.ipynb` → Entrena CNN con distintas configuraciones.  
 - `ensemble_voting.ipynb` → Carga los modelos entrenados y realiza un ensamble por votación.  
+
+Ambos notebooks están pensados para ser ejecutados en Kaggle, por lo que las rutas a los datos y modelos son rutas relativas.
