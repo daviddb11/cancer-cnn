@@ -22,3 +22,10 @@ Ambos notebooks están pensados para ser ejecutados en Kaggle, por lo que las ru
 
 - Public score: 0.8547
 - Private score: 0.8261
+
+## Contacto
+
+daviddelgadobejarano@gmail.com 
+
+[Portfolio](https://daviddb11.github.io/)
+
